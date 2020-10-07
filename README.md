@@ -1,0 +1,2 @@
+# fiBondFutureOption
+A bond future option is an option contract that gives the holder the right but not the obligation to buy or sell a bond future at a predetermined price. The writer/seller receives a premium from the buyer for undertaking this obligation. Options are leveraged instruments that allow the owner to control a large amount of the underlying asset with a smaller amount of money. Bond future options offer significant advantages for reducing costs, enhancing returns and managing risk. They could be European style or American style. 
