@@ -116,5 +116,5 @@ Settlement Date	2/9/2017	Quote Price	3.34375
 
 
 You can find more details at
-https://finpricing.com/lib/FxVolIntroduction.html
+https://finpricing.com/faq.html
 
