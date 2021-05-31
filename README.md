@@ -115,6 +115,10 @@ Settlement Date	2/9/2017	Quote Price	3.34375
 
 
 
-You can find more details at
-https://finpricing.com/faq.html
+References:
+
+https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/fibondfutureoption/downloads/FiBondFutureOption-12.pdf
+
 
